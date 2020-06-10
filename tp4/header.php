@@ -6,6 +6,20 @@
 	<meta name="description" content="TP4">
 	<meta name="author" content="Malek Mammeri">
 	
+<style>
+.bouton1{
+background-color: #21ba45;
+color: white;
+padding: 10px;
+border: none;
+}
+.bouton2{
+background-color: #00b5ad;
+color: white;
+padding: 10px;
+border: none;
+}
+</style> 
 
 </head>
 <body>
